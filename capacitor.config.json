@@ -1,0 +1,16 @@
+{
+  "appId": "app.waelshobeir.calendar",
+  "appName": "اللواء وائل شوبير",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_notify",
+      "iconColor": "#1E4D3B"
+    }
+  }
+}

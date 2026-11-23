@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.log
+
+# Signing material must never be committed
+*.keystore
+*.jks
+*.p12
+keystore-password.txt
+.signing/
+
+# Local tooling
+.claude/
+.vscode/
+.DS_Store
+Thumbs.db
