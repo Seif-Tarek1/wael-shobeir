@@ -96,6 +96,6 @@ jobs:
           gh release create "$TAG" dist/wael-shobeir.apk dist/wael-shobeir.apk.sha256 \
             --repo "$GITHUB_REPOSITORY" \
             --target "$GITHUB_SHA" \
-            --title "اللواء وائل شوبير — الإصدار ${TAG#v}" \
+            --title "اللواء وائل صبيح — الإصدار ${TAG#v}" \
             --notes "نسخة الأندرويد. حمّل الملف wael-shobeir.apk وافتحه على الهاتف لتثبيته." \
             --latest

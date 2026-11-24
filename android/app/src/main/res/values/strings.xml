@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">اللواء وائل شوبير</string>
-    <string name="title_activity_main">اللواء وائل شوبير</string>
+    <string name="app_name">اللواء وائل صبيح</string>
+    <string name="title_activity_main">اللواء وائل صبيح</string>
     <string name="package_name">app.waelshobeir.calendar</string>
     <string name="custom_url_scheme">app.waelshobeir.calendar</string>
 </resources>

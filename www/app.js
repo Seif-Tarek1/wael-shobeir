@@ -1,6 +1,6 @@
 'use strict';
 /*
- * اللواء وائل شوبير — تقويم وتذكيرات
+ * اللواء وائل صبيح — تقويم وتذكيرات
  * All data stays on the device (Capacitor Preferences on Android, localStorage in a browser).
  * Security note: user-entered text is only ever written with textContent, never innerHTML.
  */
@@ -506,7 +506,7 @@
         bannerAction = async () => {
           const ok = await ensurePermission();
           if (ok) { await requestReschedule(); toast('تم تفعيل التنبيهات'); } else {
-            toast('افتح الإعدادات ← التطبيقات ← اللواء وائل شوبير ← الإشعارات', true);
+            toast('افتح الإعدادات ← التطبيقات ← اللواء وائل صبيح ← الإشعارات', true);
           }
         };
         banner.hidden = false;

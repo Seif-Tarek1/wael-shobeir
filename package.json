@@ -2,7 +2,7 @@
   "name": "wael-shobeir",
   "version": "1.0.0",
   "private": true,
-  "description": "تطبيق تقويم وتذكيرات عربي بسيط — اللواء وائل شوبير",
+  "description": "تطبيق تقويم وتذكيرات عربي بسيط — اللواء وائل صبيح",
   "scripts": {
     "fonts": "node scripts/copy-fonts.mjs",
     "sync": "npm run fonts && npx cap sync android",
